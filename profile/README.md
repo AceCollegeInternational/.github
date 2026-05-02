@@ -28,12 +28,12 @@ real institutional consequences.
 
 | System | What It Does | Stack | Status |
 |---|---|---|---|
-| [sabi-api](https://github.com/AceCollegeInternational/sabi-api) | School intelligence API — at-risk detection, parent notifications, staff accountability | FastAPI · Python · MySQL · Telegram | 🟢 LIVE |
-| [bursar-bot](https://github.com/AceCollegeInternational/bursar-bot) | WhatsApp fee query automation for 300+ students | n8n · WhatsApp Business API · MySQL | 🟢 LIVE |
+| [ace-sabi-api](https://github.com/AceCollegeInternational/sabi-api) | School intelligence API — at-risk detection, parent notifications, staff accountability | FastAPI · Python · MySQL · Telegram | 🟢 LIVE |
+| [ace-bursar-bot](https://github.com/AceCollegeInternational/bursar-bot) | WhatsApp fee query automation for 300+ students | n8n · WhatsApp Business API · MySQL | 🟢 LIVE |
 | [fxguru-smc-ea](https://github.com/AceCollegeInternational/fxguru-smc-ea) | MQL5 Expert Advisor with four-state machine architecture | MQL5 · MetaTrader 5 · REST API | 🟢 LIVE |
 | [ai-signal-bot](https://github.com/AceCollegeInternational/ai-signal-bot) | Python AI signal engine — SMC confluence scoring + LLM analysis | FastAPI · Python · Groq · Anthropic · Gemini | 🟢 LIVE |
 | [ace-touch-typer](https://github.com/AceCollegeInternational/ace-touch-typer) | 143-lesson gamified typing curriculum on local Docker stack | HTML · JS · Docker · Nginx | 🔵 LOCAL |
-| [essaymaster-pro](https://github.com/AceCollegeInternational/essaymaster-pro) | Gemini 2.0 Flash AI writing tutor for JSS3 students | HTML · JS · Gemini 2.0 Flash | 🟢 LIVE |
+| [ace-essaymaster-pro](https://github.com/AceCollegeInternational/essaymaster-pro) | Gemini 2.0 Flash AI writing tutor for JSS3 students | HTML · JS · Gemini 2.0 Flash | 🟢 LIVE |
 | [ace-server-stack](https://github.com/AceCollegeInternational/ace-server-stack) | Full school intranet — JupyterHub + OnlyOffice on a ₦180k laptop | Docker Compose · Nginx · MikroTik | 🔵 LOCAL |
 | [ngx-research-bot](https://github.com/AceCollegeInternational/ngx-research-bot) | Multi-agent LLM equity research pipeline for Nigerian Exchange | n8n · LLM APIs · Google Sheets | 🟢 LIVE |
 | [ace-gamified-lessons](https://github.com/AceCollegeInternational/ace-gamified-lessons) | 7+ standalone AI-integrated gamified lesson applications | HTML · JS · Web Audio · Gemini | 🟢 LIVE |
