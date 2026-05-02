@@ -1,4 +1,4 @@
-# ACE College International — Technology Division
+# Ace College International — Technology Division
 
 > **"Every system we build is immediately accountable to real students,
 > real parents, and real institutional consequences.
